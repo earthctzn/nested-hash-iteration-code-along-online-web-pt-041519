@@ -20,4 +20,3 @@ def remove_strawberry(contacts)
   end
    # data.each do |flavors|
      # if flavors
-end
