@@ -15,5 +15,7 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-
+  contacts_hash.each do |person, data|
+    data.each do |flavors|
+      if flavors
 end
